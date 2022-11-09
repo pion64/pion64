@@ -1,0 +1,5 @@
+- # Sobre mim
+- 
+- 👋 Olá, meu nome é @pion64
+- 👀 Estou interessado em aprender a programar em novas lìnguas
+- 🌱 Estou aprendendo a programar 
